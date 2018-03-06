@@ -1,2 +1,5 @@
 # wiki
-this is my own wiki project.
+This is a project put everything about Tellin.
+
+# Atom
+Atom support.
